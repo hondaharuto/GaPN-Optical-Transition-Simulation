@@ -1,5 +1,4 @@
 # GaPN-Optical-Transition-Simulation
-# GaPN Optical Transition Simulation
 
 埼玉大学工学部 卒業論文（2026年度）の付録コードです。
 
